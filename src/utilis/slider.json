@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Luxury Villa",
+    "price": "$1,500,000",
+    "details": "123 Main Street, Cityville",
+    "image": "/r1.jpg"
+  },
+  {
+    "name": "Modern Apartment",
+    "price": "$500,000",
+    "details": "456 Elm Street, Townsville",
+    "image": "/r2.jpg"
+  },
+  {
+    "name": "Spacious Family Home",
+    "price": "$800,000",
+    "details": "789 Oak Street, Villageland",
+    "image": "/r3.jpg"
+  },
+  {
+    "name": "Cozy Condo",
+    "price": "$300,000",
+    "details": "321 Pine Avenue, Suburbia",
+    "image": "/r4.jpg"
+  },
+  {
+    "name": "Elegant Mansion",
+    "price": "$3,000,000",
+    "details": "555 Magnolia Drive, Estateville",
+    "image": "/r2.jpg"
+  },
+  {
+    "name": "Charming Cottage",
+    "price": "$200,000",
+    "details": "777 Rose Street, Countryside",
+    "image": "/r3.jpg"
+  }
+]
